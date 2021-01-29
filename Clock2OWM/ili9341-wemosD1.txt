@@ -1,0 +1,9 @@
+SDO/MISO - MISO/D6
+LED      - 5V (3V3, PWM)
+SCK      - SCK/D5
+SDI/MOSI - MOSI/D7
+DC/RS    - TX1/D9
+RESET    - D8
+CS       - D10/SS
+GND      - GND
+VCC      - 3V3
